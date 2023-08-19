@@ -403,3 +403,41 @@ h3{
       background-color: lightblue;
     }
   }
+  .blog{
+    border-radius: 10px;
+    margin: 55px 57px ;
+    width: 600px;
+    background-color: rgba(255, 255, 255, 0.783);
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+    color: white;
+    }
+  .blog1{
+    border-radius: 10px;
+    margin: 10px;
+    padding: 8px;
+    width: 600px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+  }
+  .blog2{
+    
+    margin: 10px;
+    padding: 44px 0px 112px 1px;
+    width: 600px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    border-radius: 10px;
+  }
